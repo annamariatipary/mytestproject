@@ -1,2 +1,3 @@
 # mytestproject
 hello
+GIT STATUS
