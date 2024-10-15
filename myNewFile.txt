@@ -1,4 +1,5 @@
 diff 
 DIFF2
 status 
+hello
 most aztán tényleg mergelek
