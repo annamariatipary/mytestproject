@@ -1,3 +1,4 @@
 diff 
 DIFF2
 status 
+most aztán tényleg mergelek
